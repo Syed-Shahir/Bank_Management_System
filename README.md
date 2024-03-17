@@ -1,0 +1,2 @@
+# Bank_Management_System
+This is our semester project , in which we have used python+MySQL for simple Database Management System Project , The detail report is available in the repository
